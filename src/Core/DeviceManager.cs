@@ -42,8 +42,6 @@ namespace Voltide.Core
             _providers.Add(new AtkHeadsetProvider());
             _providers.Add(new TaiduProvider());
             _providers.Add(new ImecooProvider());
-            _providers.Add(new AtkMouseProvider());
-            _providers.Add(new AtkHeadsetProvider());
             _providers.Add(new XInputProvider());
             _providers.Add(new X7MouseProvider());
             _providers.Add(new XiberiaT7Provider());
