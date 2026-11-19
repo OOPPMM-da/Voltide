@@ -47,6 +47,7 @@ namespace Voltide.Core
             _providers.Add(new XiberiaT7Provider());
             _providers.Add(new XiberiaK06sProvider());
             _providers.Add(new ValkyrieVkMag75MaxProvider());
+            _providers.Add(new ValkyrieMag75Provider());
             _providers.Add(new Nut75HfdProvider());
             _providers.Add(new DualSenseProvider());
             _providers.Add(new RapooProvider());
